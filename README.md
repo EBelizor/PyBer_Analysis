@@ -2,7 +2,7 @@
 
 ## Overview of Analysis
 
-The initial analysis that we ran for Pyber allowed us to view many trends in our data, trends related to city type that were based on drivers, and fares. You can find those trends in the PyBer.ipynb file withing this folder. While the analysis proved very useful, it is always good to summarize our findings when unloading that amount of information to your boss. In this Challenge I needed to summarize the data in terms of ride sharing data by city type and finally visualize this information in terms of total weekly fares for each city type. All of this will be helpful in aiding our Pyber make informative decisions on ride access and affortability. 
+The initial analysis that we ran for Pyber allowed us to view many trends in our data, trends related to city type that were based on drivers, and fares. You can find those trends in the PyBer.ipynb file withing this folder. While the analysis proved very useful, it is always good to summarize our findings when unloading that amount of information to your boss. In this Challenge I needed to summarize our findings in terms of ride sharing data by city type and finally visualize this information in terms of total weekly fares for each city type. All of this will be helpful in aiding our Pyber make informative decisions on ride access and affortability. 
 
 ## Results
 
@@ -38,9 +38,10 @@ With our summary dataframe, we can see that the fare price for rural city type w
 
 - Better recruitement of drivers in rural cities would allow us to solve the accessibility issue. 
 
+- Better ride to driver matching could also be of use to if we want to decrease the average distance between fares. This would in turn increase accessibility and affordability. 
+
 However, looking at the data the high 1.6 (125/78) ride to driver ratio is the major source of this. The ride to driver ratio creates two issues, in terms of accessibility and affortability. 
 
 - A combination of more drivers and better advertising of our platform to consumers, would increase the affortability of Pyber. 
 
-### Chart Analysis
 
