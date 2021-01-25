@@ -40,7 +40,7 @@ With our summary dataframe, we can see that the fare price for rural city type w
 
 - Better ride to driver matching could also be of use to if we want to decrease the average distance between fares. This would in turn increase accessibility and affordability. 
 
-However, looking at the data the high 1.6 (125/78) ride to driver ratio is the major source of this. The ride to driver ratio creates two issues, in terms of accessibility and affortability. 
+However, looking at the data the high 1.6 (125/78) ride to driver ratio is the major source of the high prices for rural areas. The ride to driver ratio creates two issues, in terms of accessibility and affortability. 
 
 - A combination of more drivers and better advertising of our platform to consumers, would increase the affortability of Pyber. 
 
