@@ -2,13 +2,13 @@
 
 ## Overview of Analysis
 
-The initial analysis that we ran for Pyber allowed us to view many trends within our dataframe, we were able to categorize city types, drivers, and fares. You can find those trends in the PyBer.ipynb file withing this folder. While the analysis proved very useful, it is always good to summarize our findings when unloading that amount of information to those who want to draw a quick analysis from the data. In this Challenge I needed to summarize our findings in terms of ride sharing data by city type and finally visualize this information in terms of total weekly fares for each city type. All of this will be helpful in aiding Pyber to make informative decisions on ride access and affortability. 
+For this project, I will be analyzing and visualizing data for a ride sharing company named Pyber. Using matplotlib, I was able to generate line, bubble and box-and-whisker plots to create insightful visualizations of my data. With the help of Pandas, NumPy and SciPy, I was able to find key measures of central tendency within my data. The initial analysis proved quite useful, as I was able to gain insight on the drivers, fares, and rides done within the ride sharing service. Now I am charged with the task of creating one final dataframe and multiple-line chart that will summarize key trends in affordability, and accessibility of the ride sharing service.
 
 ## Results
 
 ### Differences in ride sharing data between the 3 city types
 
-  In our "pyber_summary_df" image found below there is a glaring anomally between our "Total Rides" and "Total Drivers". We see that the rural and suburban city types both had more rides than drivers. This is a startling trend that indicates that we have more demand than supply. 
+  In the image below there is a startling trend found between our "Total Rides" and "Total Drivers". We see that the rural and suburban city types both had more rides than drivers. This is a startling trend that indicates that we have more demand than supply. 
 
 ![](Resources/pyber_summary.png)
 
